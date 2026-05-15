@@ -1,1 +1,2 @@
+Es importante porque herramientas como Git permiten guardar y controlar cada cambio realizado en un proyecto de software. Esto ayuda a los desarrolladores a trabajar de forma organizada, recuperar versiones anteriores si ocurre un error y colaborar en equipo sin perder información. Además, facilita entender qué cambios se hicieron, quién los hizo y en qué momento, mejorando la seguridad y el seguimiento del proyecto.
 
